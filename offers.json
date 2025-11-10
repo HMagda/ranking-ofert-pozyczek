@@ -1,0 +1,328 @@
+[
+  {
+    "id": "f396ebe72f",
+    "name": "NetGotowka",
+    "logo": "https://wniosek.tarata.pl/assets/img/Netgotowka.png",
+    "apr": 84.0,
+    "minAmount": 200,
+    "maxAmount": 5000,
+    "minPeriod": 4,
+    "maxPeriod": 4,
+    "decision": "online",
+    "tags": [
+      "chwilówka",
+      "krótkoterminowa"
+    ],
+    "rating": 62
+  },
+  {
+    "id": "4381492dd7",
+    "name": "PozyczkaPlus",
+    "logo": "https://wniosek.tarata.pl/assets/img/Pozyczkaplus.png",
+    "apr": 89.9,
+    "minAmount": 200,
+    "maxAmount": 6000,
+    "minPeriod": 1,
+    "maxPeriod": 1,
+    "decision": "online",
+    "tags": [
+      "chwilówka",
+      "30 dni"
+    ],
+    "rating": 71
+  },
+  {
+    "id": "52187fab9b",
+    "name": "NetCredit",
+    "logo": "https://wniosek.tarata.pl/assets/img/Netcredit.png",
+    "apr": 97.8,
+    "minAmount": 200,
+    "maxAmount": 10000,
+    "minPeriod": 1,
+    "maxPeriod": 1,
+    "decision": "online",
+    "tags": [
+      "chwilówka",
+      "30 dni"
+    ],
+    "rating": 72
+  },
+  {
+    "id": "cc45b39bad",
+    "name": "ProfiCredit",
+    "logo": "https://wniosek.tarata.pl/assets/img/ProfiCredit.png",
+    "apr": 16.99,
+    "minAmount": 1000,
+    "maxAmount": 25000,
+    "minPeriod": 6,
+    "maxPeriod": 42,
+    "decision": "kontakt doradcy",
+    "tags": [
+      "ratalna",
+      "offline",
+      "doradca"
+    ],
+    "rating": 68
+  },
+  {
+    "id": "ec7bb6bcf2",
+    "name": "Wandoo",
+    "logo": "https://wniosek.tarata.pl/assets/img/Wandoo.png",
+    "apr": 93.5,
+    "minAmount": 200,
+    "maxAmount": 5000,
+    "minPeriod": 1,
+    "maxPeriod": 1,
+    "decision": "online",
+    "tags": [
+      "chwilówka",
+      "30 dni"
+    ],
+    "rating": 63
+  },
+  {
+    "id": "7040166e9b",
+    "name": "Extraportfel",
+    "logo": "https://wniosek.tarata.pl/assets/img/ExtraPortfel.png",
+    "apr": 96.3,
+    "minAmount": 200,
+    "maxAmount": 5000,
+    "minPeriod": 1,
+    "maxPeriod": 1,
+    "decision": "online",
+    "tags": [
+      "chwilówka",
+      "30 dni"
+    ],
+    "rating": 69
+  },
+  {
+    "id": "bc2abdf740",
+    "name": "Axicard",
+    "logo": "https://wniosek.tarata.pl/assets/img/Axicard.png",
+    "apr": 79.5,
+    "minAmount": 200,
+    "maxAmount": 6000,
+    "minPeriod": 1,
+    "maxPeriod": 1,
+    "decision": "online",
+    "tags": [
+      "chwilówka",
+      "30 dni"
+    ],
+    "rating": 64
+  },
+  {
+    "id": "63184c648e",
+    "name": "KredytOK",
+    "logo": "https://wniosek.tarata.pl/assets/img/kredytok.png",
+    "apr": 15.99,
+    "minAmount": 1000,
+    "maxAmount": 20000,
+    "minPeriod": 6,
+    "maxPeriod": 36,
+    "decision": "do 24h",
+    "tags": [
+      "ratalna",
+      "online"
+    ],
+    "rating": 78
+  },
+  {
+    "id": "fb1e81d66c",
+    "name": "Smartney",
+    "logo": "https://wniosek.tarata.pl/assets/img/Smartney.png",
+    "apr": 10.49,
+    "minAmount": 1000,
+    "maxAmount": 150000,
+    "minPeriod": 6,
+    "maxPeriod": 120,
+    "decision": "15 min",
+    "tags": [
+      "ratalna",
+      "online",
+      "elastyczny okres"
+    ],
+    "rating": 92
+  },
+  {
+    "id": "f306ab9bd0",
+    "name": "Aasa",
+    "logo": "https://wniosek.tarata.pl/assets/img/Aasa.png",
+    "apr": 12.99,
+    "minAmount": 1000,
+    "maxAmount": 25000,
+    "minPeriod": 60,
+    "maxPeriod": 60,
+    "decision": "do 24h",
+    "tags": [
+      "ratalna",
+      "online",
+      "stała rata"
+    ],
+    "rating": 86
+  },
+  {
+    "id": "f600d3ff16",
+    "name": "Opena",
+    "logo": "https://wniosek.tarata.pl/assets/img/Opena.png",
+    "apr": 14.99,
+    "minAmount": 1000,
+    "maxAmount": 25000,
+    "minPeriod": 42,
+    "maxPeriod": 48,
+    "decision": "do 24h",
+    "tags": [
+      "ratalna",
+      "online"
+    ],
+    "rating": 75
+  },
+  {
+    "id": "d4d5213309",
+    "name": "Cardina",
+    "logo": "https://wniosek.tarata.pl/assets/img/Cardina.png",
+    "apr": 88.4,
+    "minAmount": 200,
+    "maxAmount": 3500,
+    "minPeriod": 1,
+    "maxPeriod": 1,
+    "decision": "online",
+    "tags": [
+      "chwilówka",
+      "30 dni"
+    ],
+    "rating": 61
+  },
+  {
+    "id": "1968ecbf6f",
+    "name": "Finbo",
+    "logo": "https://wniosek.tarata.pl/assets/img/Finbo.png",
+    "apr": 95.2,
+    "minAmount": 200,
+    "maxAmount": 7000,
+    "minPeriod": 1,
+    "maxPeriod": 1,
+    "decision": "online",
+    "tags": [
+      "chwilówka",
+      "30 dni"
+    ],
+    "rating": 65
+  },
+  {
+    "id": "e1dc0a7cb1",
+    "name": "SmartPozyczka",
+    "logo": "https://wniosek.tarata.pl/assets/img/Smartpozyczka.png",
+    "apr": 94.5,
+    "minAmount": 200,
+    "maxAmount": 6000,
+    "minPeriod": 1,
+    "maxPeriod": 1,
+    "decision": "online",
+    "tags": [
+      "chwilówka",
+      "30 dni",
+      "szybka decyzja"
+    ],
+    "rating": 73
+  },
+  {
+    "id": "1d28697df0",
+    "name": "SuperGrosz",
+    "logo": "https://wniosek.tarata.pl/assets/img/Supergrosz2.png",
+    "apr": 13.49,
+    "minAmount": 1000,
+    "maxAmount": 30000,
+    "minPeriod": 4,
+    "maxPeriod": 50,
+    "decision": "15 min",
+    "tags": [
+      "ratalna",
+      "online",
+      "szybka decyzja"
+    ],
+    "rating": 89
+  },
+  {
+    "id": "344ef641a2",
+    "name": "EkspresPozyczka",
+    "logo": "https://wniosek.tarata.pl/assets/img/EkspresPozyczka.png",
+    "apr": 99.0,
+    "minAmount": 200,
+    "maxAmount": 5000,
+    "minPeriod": 1,
+    "maxPeriod": 1,
+    "decision": "online",
+    "tags": [
+      "chwilówka",
+      "30 dni"
+    ],
+    "rating": 70
+  },
+  {
+    "id": "6607f9dbd5",
+    "name": "Extraportfel",
+    "logo": "https://wniosek.tarata.pl/assets/img/ExtraPortfel.png",
+    "apr": 95.7,
+    "minAmount": 200,
+    "maxAmount": 5000,
+    "minPeriod": 1,
+    "maxPeriod": 1,
+    "decision": "online",
+    "tags": [
+      "chwilówka",
+      "30 dni"
+    ],
+    "rating": 67
+  },
+  {
+    "id": "29c3048d37",
+    "name": "Miloan",
+    "logo": "https://wniosek.tarata.pl/assets/img/Miloan.png",
+    "apr": 92.0,
+    "minAmount": 200,
+    "maxAmount": 3000,
+    "minPeriod": 1,
+    "maxPeriod": 1,
+    "decision": "online",
+    "tags": [
+      "chwilówka",
+      "30 dni"
+    ],
+    "rating": 66
+  },
+  {
+    "id": "6c56a14deb",
+    "name": "EasyPLN",
+    "logo": "https://wniosek.tarata.pl/assets/img/EasyPLN.png",
+    "apr": 99.9,
+    "minAmount": 200,
+    "maxAmount": 10000,
+    "minPeriod": 1,
+    "maxPeriod": 1,
+    "decision": "online",
+    "tags": [
+      "chwilówka",
+      "30 dni"
+    ],
+    "rating": 72
+  },
+  {
+    "id": "27bc6cc719",
+    "name": "Lendon",
+    "logo": "https://wniosek.tarata.pl/assets/img/Lendon.png",
+    "apr": 98.1,
+    "minAmount": 200,
+    "maxAmount": 5000,
+    "minPeriod": 1,
+    "maxPeriod": 1,
+    "decision": "online",
+    "tags": [
+      "chwilówka",
+      "30 dni",
+      "szybka decyzja"
+    ],
+    "rating": 74
+  }
+]
