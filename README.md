@@ -35,7 +35,7 @@ npm test
 npm run preview
 ```
 
-**Quick note for Windows users**: If you're getting "program not found" errors in Git Bash, just switch to PowerShell or CMD. Check out [WINDOWS_SETUP.md](WINDOWS_SETUP.md) if you need help.
+**Quick note for Windows users**: If you're getting "program not found" errors in Git Bash, just switch to PowerShell or CMD.
 
 ## How it's organized
 
